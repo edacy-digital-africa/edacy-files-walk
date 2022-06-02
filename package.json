@@ -1,6 +1,6 @@
 {
   "name": "edacy-files-walk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Module to get recursively all files path in a directory",
   "main": "index.js",
   "scripts": {
