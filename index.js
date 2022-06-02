@@ -1,6 +1,6 @@
-var fs = require('fs');
+const fs = require('fs');
 
-var walk = function(dir)
+const walk = function(dir)
 {
     var results = [];
     var list = fs.readdirSync(dir);
