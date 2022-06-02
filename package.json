@@ -1,0 +1,14 @@
+{
+  "name": "edacy-files-walk",
+  "version": "1.0.0",
+  "description": "Module to get recursively all files path in a directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "edacy",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
